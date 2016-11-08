@@ -1,0 +1,729 @@
+IGNORE:Ignore the ith attribute of the "uml:Class" node! Attribute type is "".
+INFO:parentName:Class    parentID:EAPK_70DB8A10_9902_4e2b_8D5B_06F79BFF1FD2    i:0
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:classID    attribute IDEAID_29AE3C1F_8CCE_446f_A511_A13B1D800E8F    class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:classID    attribute IDEAID_29AE3C1F_8CCE_446f_A511_A13B1D800E8F    class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:teacherList    attribute IDEAID_66637626_666A_437a_BA64_13FE3DF6F052    class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:teacherList    attribute IDEAID_66637626_666A_437a_BA64_13FE3DF6F052    class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:9
+
+IGNORE:Ignore the  ith attribute of type "aggregation" of the class attribute node! Ignore this class attribute.
+INFO:class name:Class    class ID:EAID_21C16DAD_5A01_41cf_88E1_6B431E44FC0F    i:10
+
+IGNORE:Ignore the ith attribute of the "uml:Association" node! Attribute type is "".
+INFO:parentName:Class    parentID:EAPK_70DB8A10_9902_4e2b_8D5B_06F79BFF1FD2    i:0
+
+IGNORE:Ignore the ith attribute of the "uml:Association" node! Attribute type is "".
+INFO:parentName:Class    parentID:EAPK_70DB8A10_9902_4e2b_8D5B_06F79BFF1FD2    i:0
+
+IGNORE:Ignore the ith attribute of the "uml:Association" node! Attribute type is "".
+INFO:parentName:Class    parentID:EAPK_70DB8A10_9902_4e2b_8D5B_06F79BFF1FD2    i:0
+
+IGNORE:Ignore the ith attribute of the "uml:Class" node! Attribute type is "".
+INFO:parentName:Class    parentID:EAPK_70DB8A10_9902_4e2b_8D5B_06F79BFF1FD2    i:0
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:objectClass    attribute IDEAID_7A3B9FE4_F04E_4449_A56A_4DBAB1B46F9A    class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:objectClass    attribute IDEAID_7A3B9FE4_F04E_4449_A56A_4DBAB1B46F9A    class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:objectInstance    attribute IDEAID_B123E6AE_B7D9_4229_899F_10E07A5D9676    class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:objectInstance    attribute IDEAID_B123E6AE_B7D9_4229_899F_10E07A5D9676    class name:ManagedObject    class ID:EAID_DD2D8B5C_8F32_4c1e_93E9_FC1115CC47C4
+
+IGNORE:Ignore the ith attribute of the "uml:Class" node! Attribute type is "".
+INFO:parentName:Class    parentID:EAPK_70DB8A10_9902_4e2b_8D5B_06F79BFF1FD2    i:0
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:birthday    attribute IDEAID_E663E8E2_0974_4e4c_A755_C4718A4899A9    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:birthday    attribute IDEAID_E663E8E2_0974_4e4c_A755_C4718A4899A9    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:friendList    attribute IDEAID_94A36814_3991_4e90_BCA2_E22CC1F13163    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:friendList    attribute IDEAID_94A36814_3991_4e90_BCA2_E22CC1F13163    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:personID    attribute IDEAID_7254E551_8E96_4228_A7CC_C09B58837587    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:personID    attribute IDEAID_7254E551_8E96_4228_A7CC_C09B58837587    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:personName    attribute IDEAID_9A881514_66A8_45e6_87E3_F80CB3997329    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:personName    attribute IDEAID_9A881514_66A8_45e6_87E3_F80CB3997329    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:3
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:changeName    operation IDEAID_C31CF100_84BC_4fd5_B3FC_FB23973FF4B0    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:changeName    operation IDEAID_C31CF100_84BC_4fd5_B3FC_FB23973FF4B0    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:changeName    operation IDEAID_C31CF100_84BC_4fd5_B3FC_FB23973FF4B0    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:changeName    operation IDEAID_C31CF100_84BC_4fd5_B3FC_FB23973FF4B0    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:changeName    operation IDEAID_C31CF100_84BC_4fd5_B3FC_FB23973FF4B0    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:changeName    operation IDEAID_C31CF100_84BC_4fd5_B3FC_FB23973FF4B0    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:changeName    operation IDEAID_C31CF100_84BC_4fd5_B3FC_FB23973FF4B0    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:changeName    operation IDEAID_C31CF100_84BC_4fd5_B3FC_FB23973FF4B0    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D    i:3
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:getID    operation IDEAID_DE54F483_81B0_477c_BE4B_B98D42087F1C    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:getID    operation IDEAID_DE54F483_81B0_477c_BE4B_B98D42087F1C    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:getID    operation IDEAID_DE54F483_81B0_477c_BE4B_B98D42087F1C    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:getID    operation IDEAID_DE54F483_81B0_477c_BE4B_B98D42087F1C    class name:Person    class ID:EAID_527021B0_88DB_447a_9B50_FF0DB7D7A50D
+
+IGNORE:Ignore the ith attribute of the "uml:Association" node! Attribute type is "".
+INFO:parentName:Class    parentID:EAPK_70DB8A10_9902_4e2b_8D5B_06F79BFF1FD2    i:0
+
+IGNORE:Ignore the ith attribute of the "uml:Class" node! Attribute type is "".
+INFO:parentName:Class    parentID:EAPK_70DB8A10_9902_4e2b_8D5B_06F79BFF1FD2    i:0
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:location    attribute IDEAID_D3D48B3D_19E8_4bde_A42B_7994427F6FFA    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:location    attribute IDEAID_D3D48B3D_19E8_4bde_A42B_7994427F6FFA    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:schoolID    attribute IDEAID_AACDA728_5FFB_4ffa_979B_E34EC6C2C5A6    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:schoolID    attribute IDEAID_AACDA728_5FFB_4ffa_979B_E34EC6C2C5A6    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:schoolName    attribute IDEAID_5CE893A4_F80D_4917_8377_5D4B44F77E3A    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:schoolName    attribute IDEAID_5CE893A4_F80D_4917_8377_5D4B44F77E3A    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:studentLimit    attribute IDEAID_D27BC44C_3F14_4cce_B150_D2C46B37F513    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:studentLimit    attribute IDEAID_D27BC44C_3F14_4cce_B150_D2C46B37F513    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D    i:3
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:setStudentLimit    operation IDEAID_235D7580_07D8_495d_A975_D5DC2226ACE4    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:setStudentLimit    operation IDEAID_235D7580_07D8_495d_A975_D5DC2226ACE4    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:setStudentLimit    operation IDEAID_235D7580_07D8_495d_A975_D5DC2226ACE4    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:setStudentLimit    operation IDEAID_235D7580_07D8_495d_A975_D5DC2226ACE4    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:setStudentLimit    operation IDEAID_235D7580_07D8_495d_A975_D5DC2226ACE4    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:setStudentLimit    operation IDEAID_235D7580_07D8_495d_A975_D5DC2226ACE4    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:setStudentLimit    operation IDEAID_235D7580_07D8_495d_A975_D5DC2226ACE4    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:setStudentLimit    operation IDEAID_235D7580_07D8_495d_A975_D5DC2226ACE4    class name:School    class ID:EAID_42C8FCC3_E822_4708_BE5E_590DDBB2D38D
+
+IGNORE:Ignore the ith attribute of the "uml:Association" node! Attribute type is "".
+INFO:parentName:Class    parentID:EAPK_70DB8A10_9902_4e2b_8D5B_06F79BFF1FD2    i:0
+
+IGNORE:Ignore the ith attribute of the "uml:Class" node! Attribute type is "".
+INFO:parentName:Class    parentID:EAPK_70DB8A10_9902_4e2b_8D5B_06F79BFF1FD2    i:0
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:sex    attribute IDEAID_6FEC80DA_9B19_4b93_B407_BB2449210CFB    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:sex    attribute IDEAID_6FEC80DA_9B19_4b93_B407_BB2449210CFB    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:studentNo    attribute IDEAID_477EB679_162B_4df0_8F5E_604AD296DC4D    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:studentNo    attribute IDEAID_477EB679_162B_4df0_8F5E_604AD296DC4D    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:3
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:changeClass    operation IDEAID_63D1720E_8D93_450f_8654_3E1A82E4F535    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:changeClass    operation IDEAID_63D1720E_8D93_450f_8654_3E1A82E4F535    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:changeClass    operation IDEAID_63D1720E_8D93_450f_8654_3E1A82E4F535    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:changeClass    operation IDEAID_63D1720E_8D93_450f_8654_3E1A82E4F535    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:changeClass    operation IDEAID_63D1720E_8D93_450f_8654_3E1A82E4F535    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:changeClass    operation IDEAID_63D1720E_8D93_450f_8654_3E1A82E4F535    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:changeClass    operation IDEAID_63D1720E_8D93_450f_8654_3E1A82E4F535    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:changeClass    operation IDEAID_63D1720E_8D93_450f_8654_3E1A82E4F535    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:3
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:changeSchool    operation IDEAID_6878B54F_3DD4_4c0f_A364_6167D32AC327    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:changeSchool    operation IDEAID_6878B54F_3DD4_4c0f_A364_6167D32AC327    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:changeSchool    operation IDEAID_6878B54F_3DD4_4c0f_A364_6167D32AC327    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:changeSchool    operation IDEAID_6878B54F_3DD4_4c0f_A364_6167D32AC327    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:changeSchool    operation IDEAID_6878B54F_3DD4_4c0f_A364_6167D32AC327    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:changeSchool    operation IDEAID_6878B54F_3DD4_4c0f_A364_6167D32AC327    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:changeSchool    operation IDEAID_6878B54F_3DD4_4c0f_A364_6167D32AC327    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:changeSchool    operation IDEAID_6878B54F_3DD4_4c0f_A364_6167D32AC327    class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:9
+
+IGNORE:Ignore the  ith attribute of type "aggregation" of the class attribute node! Ignore this class attribute.
+INFO:class name:Student    class ID:EAID_1EB2276A_7074_4863_9857_A92A40A1AA8D    i:10
+
+IGNORE:Ignore the ith attribute of the "uml:Class" node! Attribute type is "".
+INFO:parentName:Class    parentID:EAPK_70DB8A10_9902_4e2b_8D5B_06F79BFF1FD2    i:0
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:classList    attribute IDEAID_0E0366CA_FCD6_42ac_A9A1_1DBDF57F5F8B    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:classList    attribute IDEAID_0E0366CA_FCD6_42ac_A9A1_1DBDF57F5F8B    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:phoneNo    attribute IDEAID_3B6147D6_DDAE_4463_BB23_2891A12E92D3    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:phoneNo    attribute IDEAID_3B6147D6_DDAE_4463_BB23_2891A12E92D3    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:position    attribute IDEAID_6EE88709_A8B6_4396_998A_B7B214F742A4    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:position    attribute IDEAID_6EE88709_A8B6_4396_998A_B7B214F742A4    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:salary    attribute IDEAID_E6859989_447A_4f27_8451_52687C813550    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:salary    attribute IDEAID_E6859989_447A_4f27_8451_52687C813550    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:teacherID    attribute IDEAID_ABE78B27_D7C3_4392_A242_7A402017321E    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:teacherID    attribute IDEAID_ABE78B27_D7C3_4392_A242_7A402017321E    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:3
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:changePosition    operation IDEAID_DEC1911C_DAC8_4e5e_860D_8E95FC12D062    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:changePosition    operation IDEAID_DEC1911C_DAC8_4e5e_860D_8E95FC12D062    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:changePosition    operation IDEAID_DEC1911C_DAC8_4e5e_860D_8E95FC12D062    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:changePosition    operation IDEAID_DEC1911C_DAC8_4e5e_860D_8E95FC12D062    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:changePosition    operation IDEAID_DEC1911C_DAC8_4e5e_860D_8E95FC12D062    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:changePosition    operation IDEAID_DEC1911C_DAC8_4e5e_860D_8E95FC12D062    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:changePosition    operation IDEAID_DEC1911C_DAC8_4e5e_860D_8E95FC12D062    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:changePosition    operation IDEAID_DEC1911C_DAC8_4e5e_860D_8E95FC12D062    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:3
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:setSalary    operation IDEAID_31C4FFD3_70A3_434c_8FA7_DAE9D251B805    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:setSalary    operation IDEAID_31C4FFD3_70A3_434c_8FA7_DAE9D251B805    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:setSalary    operation IDEAID_31C4FFD3_70A3_434c_8FA7_DAE9D251B805    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:setSalary    operation IDEAID_31C4FFD3_70A3_434c_8FA7_DAE9D251B805    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:setSalary    operation IDEAID_31C4FFD3_70A3_434c_8FA7_DAE9D251B805    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:setSalary    operation IDEAID_31C4FFD3_70A3_434c_8FA7_DAE9D251B805    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:setSalary    operation IDEAID_31C4FFD3_70A3_434c_8FA7_DAE9D251B805    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:setSalary    operation IDEAID_31C4FFD3_70A3_434c_8FA7_DAE9D251B805    class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:9
+
+IGNORE:Ignore the  ith attribute of type "aggregation" of the class attribute node! Ignore this class attribute.
+INFO:class name:Teacher    class ID:EAID_DFF6950B_1F89_4716_9A58_086789401238    i:10
+

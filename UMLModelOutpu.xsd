@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	作者：王智立
+	创建时间：2015-05-05
+	版本：1.0.0
+-->
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:uml="http://www.bupt.edu.cn/xml-namespace/UMLModelOutput" targetNamespace="http://www.bupt.edu.cn/xml-namespace/UMLModelOutput" elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.0">
+	<!-- XML Schema Definition for generic Managed Object -->
+	<xsd:complexType name="UMLModelOutputType">
+		<xsd:sequence>
+			<xsd:element name="classSet" type="uml:ClassInfoSetType"/>
+			<xsd:element name="relationshipSet" type="uml:RelationshipSetType"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="ClassInfoType">
+		<xsd:sequence>
+			<xsd:element name="className" type="xsd:string"/>
+			<xsd:element name="attributeSet" type="uml:NameTypePairInfoListType"/>
+			<xsd:element name="operationSet" type="uml:OperationInfoSetType"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="ClassInfoSetType">
+		<xsd:sequence>
+			<xsd:element name="class" type="uml:ClassInfoType" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="NameTypePairInfoType">
+		<xsd:sequence>
+			<xsd:element name="name" type="xsd:string"/>
+			<xsd:element name="type" type="xsd:string"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="NameTypePairInfoListType">
+		<xsd:sequence>
+			<xsd:element name="item" type="uml:NameTypePairInfoType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<!--
+	<xsd:complexType name="AttributeInfoSetType">
+		<xsd:sequence>
+			<xsd:element name="attribute" type="uml:NameTypePairInfoType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+
+	</xsd:complexType>
+	-->
+	<xsd:complexType name="OperationInfoType">
+		<xsd:sequence>
+			<xsd:element name="name" type="xsd:string"/>
+			<xsd:element name="returnType" type="xsd:string"/>
+			<xsd:element name="parameterList" type="uml:NameTypePairInfoListType"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="OperationInfoSetType">
+		<xsd:sequence>
+			<xsd:element name="operation" type="uml:OperationInfoType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="RelationshipSetType">
+		<xsd:sequence>
+			<xsd:element name="associationList" type="uml:AssociationRelationshipSetType"/>
+			<xsd:element name="aggregationList" type="uml:ContainmentRelationshipSetType"/>
+			<xsd:element name="compositionList" type="uml:ContainmentRelationshipSetType"/>		
+			<xsd:element name="generalizationList" type="uml:GeneralizationRelationshipSetType"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="ContainmentRelationshipType">
+		<xsd:sequence>
+			<xsd:element name="containmentRelationshipName" type="xsd:string"/>
+			<xsd:element name="superiorClass" type="xsd:string"/>
+			<xsd:element name="superiorClassMultiplicity" type="uml:multiplicityType"/>
+			<xsd:element name="subordinateClass" type="xsd:string"/>
+			<xsd:element name="subordinateClassMultiplicity" type="uml:multiplicityType"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="ContainmentRelationshipSetType">
+		<xsd:sequence>
+			<xsd:element name="containmentInfo" type="uml:ContainmentRelationshipType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:simpleType name="multiplicityType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="*"/>
+			<xsd:enumeration value="0"/>
+			<xsd:enumeration value="0..*"/>
+			<xsd:enumeration value="0..1"/>
+			<xsd:enumeration value="1"/>
+			<xsd:enumeration value="1.."/>
+			<xsd:enumeration value="1..*"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="AssociationRelationshipType">
+		<xsd:sequence>
+			<xsd:element name="associationRelationshipName" type="xsd:string"/>
+			<xsd:element name="associationDirection" type="uml:DirectionType"/>
+			<xsd:element name="fromClass" type="xsd:string"/>
+			
+			<xsd:element name="fromAssociationAttribute" type="xsd:string"/>
+			<xsd:element name="fromMultiplicity" type="uml:multiplicityType"/>
+			<xsd:element name="toClass" type="xsd:string"/>
+			<xsd:element name="toAssociationAttribute" type="xsd:string"/>
+			<xsd:element name="toMultiplicity" type="uml:multiplicityType"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:simpleType name="DirectionType">
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="bidirectional"/>
+			<xsd:enumeration value="unidirectional"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+	<xsd:complexType name="AssociationRelationshipSetType">
+		<xsd:sequence>
+			<xsd:element name="associationInfo" type="uml:AssociationRelationshipType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="GeneralizationRelationshipType">
+		<xsd:sequence>
+			<xsd:element name="parentClass" type="xsd:string"/>
+			<xsd:element name="childClass" type="xsd:string"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="GeneralizationRelationshipSetType">
+		<xsd:sequence>
+			<xsd:element name="generalizationInfo" type="uml:GeneralizationRelationshipType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:element name="containmentSetInfo" type="uml:UMLModelOutputType"/>
+</xsd:schema>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:uml="http://www.ws.zc/xml-namespace/informationModel/UMLModelGenericModel" targetNamespace="http://www.ws.zc/xml-namespace/informationModel/UMLModelGenericModel" elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.0">
+	<xsd:simpleType name="DNType">
+		<xsd:restriction base="xsd:string"/>
+	</xsd:simpleType>
+	<xsd:complexType name="DNSetType">
+		<xsd:sequence>
+			<xsd:element name="dn" type="uml:DNType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="InstanceOutputType">
+		<xsd:sequence>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:element name="outputInstanceList" type="uml:InstanceOutputType"/>
+</xsd:schema>

@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{e9dc48c3-a0eb-4498-9de3-5fbd68c6f22d}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{a7810504-b393-4e9f-a6b6-e50fcc37eef8}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{4c388371-d7d7-4925-b8af-c84a5eeb253b}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ADO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BmpEdit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UMLanalyser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UMLanalyserDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="UMLanalyser.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ADO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BmpEdit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UMLanalyser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UMLanalyserDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\analyse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\analyse_disabled.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\analyse_down.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\analyse_hover.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\background.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\close.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\close_disabled.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\close_down.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\close_hover.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\edit_background.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\edit_small.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\log.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\log_disabled.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\log_down.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\log_hover.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\open.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\open_disabled.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\open_down.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\open_hover.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\return.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\return_disabled.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\return_down.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\return_hover.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\txt.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\txt_disabled.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\txt_down.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\txt_hover.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\UMLanalyser.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\UMLanalyser.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\model.mdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>

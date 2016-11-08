@@ -1,0 +1,27 @@
+﻿生成启动时间为 2016/11/8 15:36:10。
+     1>项目“C:\Users\Administrator.PC-20160814OGUD\Desktop\UMLanalyser\UMLanalyser.vcxproj”在节点 2 上(Build 个目标)。
+       项目文件包含 ToolsVersion="12.0" 设置，但此工具集未知或缺失。您可以通过为此工具集安装相应的 .NET Framework 来解决此问题。将项目视为具有 ToolsVersion="4.0" 设置。
+     1>ClCompile:
+         D:\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug/UMLanalyser.pch" /Fo".\Debug/" /Fd".\Debug/vc110.pdb" /Gd /TP /analyze- /errorReport:prompt UMLanalyserDlg.cpp
+         UMLanalyserDlg.cpp
+     1>c:\users\administrator.pc-20160814ogud\desktop\umlanalyser\umlanalyserdlg.cpp(6492): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+     1>c:\users\administrator.pc-20160814ogud\desktop\umlanalyser\umlanalyserdlg.cpp(6547): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+     1>c:\users\administrator.pc-20160814ogud\desktop\umlanalyser\umlanalyserdlg.cpp(7354): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator.pc-20160814ogud\desktop\umlanalyser\umlanalyserdlg.cpp(7414): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator.pc-20160814ogud\desktop\umlanalyser\umlanalyserdlg.cpp(7474): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator.pc-20160814ogud\desktop\umlanalyser\umlanalyserdlg.cpp(7477): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator.pc-20160814ogud\desktop\umlanalyser\umlanalyserdlg.cpp(7485): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/UMLanalyser.exe" /INCREMENTAL /NOLOGO msxml2.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs2012\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:".\Debug/UMLanalyser.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\UMLanalyser.lib" /MACHINE:X86 /SAFESEH .\Debug\UMLanalyser.res
+         .\Debug/ADO.obj
+         .\Debug/BmpEdit.obj
+         .\Debug/DrawButton.obj
+         .\Debug/StdAfx.obj
+         .\Debug/UMLanalyser.obj
+         .\Debug/UMLanalyserDlg.obj
+         UMLanalyser.vcxproj -> C:\Users\Administrator.PC-20160814OGUD\Desktop\UMLanalyser\.\Debug\UMLanalyser.exe
+     1>已完成生成项目“C:\Users\Administrator.PC-20160814OGUD\Desktop\UMLanalyser\UMLanalyser.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.31

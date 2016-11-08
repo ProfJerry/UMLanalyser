@@ -1,0 +1,262 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\UMLanalyser.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\UMLanalyser.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于 UMLanalyser"
+FONT 9, "宋体"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "UMLanalyser 1.0 版",IDC_STATIC,40,10,119,8,SS_NOPREFIX
+    LTEXT           "版权所有 (C) 2011",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "确定",IDOK,178,7,50,14,WS_GROUP
+END
+
+IDD_UMLANALYSER_DIALOG DIALOGEX 0, 0, 435, 436
+STYLE DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_CAPTION | 
+    WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "UMLanalyser"
+FONT 9, "宋体", 0, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_BUTTON_OPEN,"Button",BS_OWNERDRAW | WS_TABSTOP,7,
+                    7,39,39
+    CONTROL         "",IDC_BUTTON_ANALYSE,"Button",BS_OWNERDRAW | WS_TABSTOP,
+                    61,7,39,39
+    CONTROL         "",IDC_BUTTON_LOG,"Button",BS_OWNERDRAW | WS_TABSTOP,115,
+                    8,39,39
+    CONTROL         "",IDC_BUTTON_TXT,"Button",BS_OWNERDRAW | WS_TABSTOP,169,
+                    8,39,39
+    CONTROL         "",IDCANCEL,"Button",BS_OWNERDRAW | WS_TABSTOP,223,8,39,
+                    39
+    EDITTEXT        IDC_EDIT,11,57,414,367,ES_MULTILINE | ES_READONLY | NOT 
+                    WS_BORDER | WS_VSCROLL | WS_HSCROLL
+    EDITTEXT        IDC_TXT,11,57,414,329,ES_MULTILINE | ES_READONLY | NOT 
+                    WS_BORDER | WS_VSCROLL | WS_HSCROLL
+    EDITTEXT        IDC_LOG,11,57,414,329,ES_MULTILINE | ES_READONLY | NOT 
+                    WS_BORDER | WS_VSCROLL | WS_HSCROLL
+    CONTROL         "",IDC_BUTTON_TXTCANCEL,"Button",BS_OWNERDRAW | 
+                    WS_TABSTOP,355,401,57,15
+    CONTROL         "",IDC_BUTTON_LOGCANCEL,"Button",BS_OWNERDRAW | 
+                    WS_TABSTOP,355,401,57,15
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404B0"
+        BEGIN
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "UMLanalyser Microsoft 基础类应用程序\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "UMLanalyser\0"
+            VALUE "LegalCopyright", "版权所有 (C) 2011\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "UMLanalyser.EXE\0"
+            VALUE "ProductName", "UMLanalyser 应用程序\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_UMLANALYSER_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 428
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 429
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// ACCESSDATABASE
+//
+
+IDR_ACCESSDATABASE      ACCESSDATABASE DISCARDABLE "res\\model.mdb"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP_BACKGROUND   BITMAP  DISCARDABLE     "res\\background.bmp"
+IDB_BITMAP_EDIT         BITMAP  DISCARDABLE     "res\\edit_background.bmp"
+IDB_BITMAP_ANALYSE_HOVER BITMAP  DISCARDABLE     "res\\analyse_hover.bmp"
+IDB_BITMAP_ANALYSE      BITMAP  DISCARDABLE     "res\\analyse.bmp"
+IDB_BITMAP_ANALYSE_DISABLED BITMAP  DISCARDABLE     "res\\analyse_disabled.bmp"
+IDB_BITMAP_ANALYSE_DOWN BITMAP  DISCARDABLE     "res\\analyse_down.bmp"
+IDB_BITMAP_CLOSE_HOVER  BITMAP  DISCARDABLE     "res\\close_hover.bmp"
+IDB_BITMAP_CLOSE        BITMAP  DISCARDABLE     "res\\close.bmp"
+IDB_BITMAP_CLOSE_DISABLED BITMAP  DISCARDABLE     "res\\close_disabled.bmp"
+IDB_BITMAP_CLOSE_DOWN   BITMAP  DISCARDABLE     "res\\close_down.bmp"
+IDB_BITMAP_LOG_HOVER    BITMAP  DISCARDABLE     "res\\log_hover.bmp"
+IDB_BITMAP_LOG          BITMAP  DISCARDABLE     "res\\log.bmp"
+IDB_BITMAP_LOG_DISABLED BITMAP  DISCARDABLE     "res\\log_disabled.bmp"
+IDB_BITMAP_LOG_DOWN     BITMAP  DISCARDABLE     "res\\log_down.bmp"
+IDB_BITMAP_OPEN_HOVER   BITMAP  DISCARDABLE     "res\\open_hover.bmp"
+IDB_BITMAP_OPEN         BITMAP  DISCARDABLE     "res\\open.bmp"
+IDB_BITMAP_OPEN_DISABLED BITMAP  DISCARDABLE     "res\\open_disabled.bmp"
+IDB_BITMAP_OPEN_DOWN    BITMAP  DISCARDABLE     "res\\open_down.bmp"
+IDB_BITMAP_TXT_HOVER    BITMAP  DISCARDABLE     "res\\txt_hover.bmp"
+IDB_BITMAP_TXT          BITMAP  DISCARDABLE     "res\\txt.bmp"
+IDB_BITMAP_TXT_DISABLED BITMAP  DISCARDABLE     "res\\txt_disabled.bmp"
+IDB_BITMAP_TXT_DOWN     BITMAP  DISCARDABLE     "res\\txt_down.bmp"
+IDB_BITMAP_RETURN_HOVER BITMAP  DISCARDABLE     "res\\return_hover.bmp"
+IDB_BITMAP_RETURN       BITMAP  DISCARDABLE     "res\\return.bmp"
+IDB_BITMAP_RETURN_DISABLED BITMAP  DISCARDABLE     "res\\return_disabled.bmp"
+IDB_BITMAP_RETURN_DOWN  BITMAP  DISCARDABLE     "res\\return_down.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "关于 UMLanalyser(&A)..."
+END
+
+#endif    // Chinese (中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\UMLanalyser.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

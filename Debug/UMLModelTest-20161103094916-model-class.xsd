@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:uml="http://www.ws.zc/xml-namespace/informationModel/UMLModelGenericModel" targetNamespace="http://www.ws.zc/xml-namespace/informationModel/UMLModelGenericModel" elementFormDefault="qualified" attributeFormDefault="unqualified" version="1.0">
+	<xsd:simpleType name="DNType">
+		<xsd:restriction base="xsd:string"/>
+	</xsd:simpleType>
+	<xsd:complexType name="DNSetType">
+		<xsd:sequence>
+			<xsd:element name="dn" type="uml:DNType" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="Class_T">
+		<xsd:complexContent>
+			<xsd:extension base="uml:ManagedObject_T">
+				<xsd:sequence>
+					<xsd:element name="classID" type="xsd:integer"/>
+					<xsd:element name="teacherList" type="uml:DNSetType"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:element name="Class" type="uml:Class_T"/>
+	<xsd:complexType name="ManagedObject_T">
+		<xsd:sequence>
+					<xsd:element name="objectClass" type="xsd:string"/>
+					<xsd:element name="objectInstance" type="uml:DNType"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:complexType name="Person_T">
+		<xsd:complexContent>
+			<xsd:extension base="uml:ManagedObject_T">
+				<xsd:sequence>
+					<xsd:element name="birthday" type="xsd:string"/>
+					<xsd:element name="friendList" type="uml:DNSetType"/>
+					<xsd:element name="personID" type="xsd:integer"/>
+					<xsd:element name="personName" type="xsd:string"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:complexType name="School_T">
+		<xsd:complexContent>
+			<xsd:extension base="uml:ManagedObject_T">
+				<xsd:sequence>
+					<xsd:element name="location" type="xsd:string"/>
+					<xsd:element name="schoolID" type="xsd:integer"/>
+					<xsd:element name="schoolName" type="xsd:string"/>
+					<xsd:element name="studentLimit" type="xsd:integer"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:element name="School" type="uml:School_T"/>
+	<xsd:complexType name="Student_T">
+		<xsd:complexContent>
+			<xsd:extension base="uml:Person_T">
+				<xsd:sequence>
+					<xsd:element name="sex" type="xsd:string"/>
+					<xsd:element name="studentNo" type="xsd:integer"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:element name="Student" type="uml:Student_T"/>
+	<xsd:complexType name="Teacher_T">
+		<xsd:complexContent>
+			<xsd:extension base="uml:Person_T">
+				<xsd:sequence>
+					<xsd:element name="classList" type="uml:DNSetType"/>
+					<xsd:element name="phoneNo" type="xsd:integer"/>
+					<xsd:element name="position" type="xsd:string"/>
+					<xsd:element name="salary" type="xsd:integer"/>
+					<xsd:element name="teacherID" type="xsd:integer"/>
+				</xsd:sequence>
+			</xsd:extension>
+		</xsd:complexContent>
+	</xsd:complexType>
+	<xsd:element name="Teacher" type="uml:Teacher_T"/>
+	<xsd:complexType name="InstanceOutputType">
+		<xsd:sequence>
+			<xsd:element ref="uml:Class" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element ref="uml:School" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element ref="uml:Student" minOccurs="0" maxOccurs="unbounded"/>
+			<xsd:element ref="uml:Teacher" minOccurs="0" maxOccurs="unbounded"/>
+		</xsd:sequence>
+	</xsd:complexType>
+	<xsd:element name="outputInstanceList" type="uml:InstanceOutputType"/>
+</xsd:schema>

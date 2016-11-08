@@ -1,0 +1,261 @@
+IGNORE:Ignore the ith attribute of the "uml:Class" node! Attribute type is "".
+INFO:parentName:class    parentID:EAPK_C8ED9532_114F_4cfd_9A2B_880B6B01C104    i:0
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE    i:3
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:create    operation IDEAID_A283F70C_F378_4f8c_B9F9_BE9DC59A6711    class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:create    operation IDEAID_A283F70C_F378_4f8c_B9F9_BE9DC59A6711    class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:create    operation IDEAID_A283F70C_F378_4f8c_B9F9_BE9DC59A6711    class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:create    operation IDEAID_A283F70C_F378_4f8c_B9F9_BE9DC59A6711    class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE    i:3
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:delete    operation IDEAID_6CEAB7A5_09AA_4d2a_8561_584D618E11BF    class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:delete    operation IDEAID_6CEAB7A5_09AA_4d2a_8561_584D618E11BF    class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:delete    operation IDEAID_6CEAB7A5_09AA_4d2a_8561_584D618E11BF    class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:delete    operation IDEAID_6CEAB7A5_09AA_4d2a_8561_584D618E11BF    class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE    i:3
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:find    operation IDEAID_18817C4A_8BD9_4512_AC3C_2C754E3EDEB4    class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:find    operation IDEAID_18817C4A_8BD9_4512_AC3C_2C754E3EDEB4    class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:find    operation IDEAID_18817C4A_8BD9_4512_AC3C_2C754E3EDEB4    class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:find    operation IDEAID_18817C4A_8BD9_4512_AC3C_2C754E3EDEB4    class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:StudentManager    class ID:EAID_4B1D264F_04CD_4f0c_B944_7868569D7FAE    i:3
+
+IGNORE:Ignore the ith attribute of the "uml:Association" node! Attribute type is "".
+INFO:parentName:class    parentID:EAPK_C8ED9532_114F_4cfd_9A2B_880B6B01C104    i:0
+
+IGNORE:Ignore the ith attribute of the "uml:Class" node! Attribute type is "".
+INFO:parentName:class    parentID:EAPK_C8ED9532_114F_4cfd_9A2B_880B6B01C104    i:0
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:studentId    attribute IDEAID_F3C04E06_22D1_435f_A6C4_F103402E15C0    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:studentId    attribute IDEAID_F3C04E06_22D1_435f_A6C4_F103402E15C0    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:name    attribute IDEAID_174BA281_4872_4dab_A7B5_ED91989326C7    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:name    attribute IDEAID_174BA281_4872_4dab_A7B5_ED91989326C7    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:chineseMark    attribute IDEAID_B3C057E0_8DD2_4332_88B8_6C2C2EF242F9    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:chineseMark    attribute IDEAID_B3C057E0_8DD2_4332_88B8_6C2C2EF242F9    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:mathMark    attribute IDEAID_1D3D4030_C46B_4496_8518_2D969856B416    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:mathMark    attribute IDEAID_1D3D4030_C46B_4496_8518_2D969856B416    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore the  ith attribute of type "isStatic" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:4
+
+IGNORE:Ignore the  ith attribute of type "isReadOnly" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:5
+
+IGNORE:Ignore the  ith attribute of type "isDerived" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:6
+
+IGNORE:Ignore the  ith attribute of type "isOrdered" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:7
+
+IGNORE:Ignore the  ith attribute of type "isUnique" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:8
+
+IGNORE:Ignore the  ith attribute of type "isDerivedUnion" of the class attribute node! Ignore this class attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:9
+
+IGNORE:Ignore a child node of type "lowerValue" of the class attribute!
+INFO:attribute name:englishMark    attribute IDEAID_6E03C17C_0B7B_4995_9C3E_D8A61B7ECE7D    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore a child node of type "upperValue" of the class attribute!
+INFO:attribute name:englishMark    attribute IDEAID_6E03C17C_0B7B_4995_9C3E_D8A61B7ECE7D    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:3
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:3
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:3
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:3
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:3
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:nameSET    operation IDEAID_18BFF8B8_CE25_4ec6_85CD_792F00404A78    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:nameSET    operation IDEAID_18BFF8B8_CE25_4ec6_85CD_792F00404A78    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:nameSET    operation IDEAID_18BFF8B8_CE25_4ec6_85CD_792F00404A78    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:nameSET    operation IDEAID_18BFF8B8_CE25_4ec6_85CD_792F00404A78    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:3
+
+IGNORE:Ignore the  ith attribute of type "concurrency" of the class operation node! Ignore this class operation attribute.
+INFO:class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0    i:3
+
+IGNORE:Ignore a information node of type "isStream" of the parameter!.
+INFO:operation name:chineseMarkSET    operation IDEAID_3D4B9739_F514_4953_B0AA_21B9BE98988B    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore a information node of type "isException" of the parameter!.
+INFO:operation name:chineseMarkSET    operation IDEAID_3D4B9739_F514_4953_B0AA_21B9BE98988B    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore a information node of type "isOrdered" of the parameter!.
+INFO:operation name:chineseMarkSET    operation IDEAID_3D4B9739_F514_4953_B0AA_21B9BE98988B    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore a information node of type "isUnique" of the parameter!.
+INFO:operation name:chineseMarkSET    operation IDEAID_3D4B9739_F514_4953_B0AA_21B9BE98988B    class name:StudentRecord    class ID:EAID_B357DF10_844D_4877_91C4_A6AD90B6B8E0
+
+IGNORE:Ignore the ith attribute of the "uml:Collaboration" node! Attribute type is "".
+INFO:parentName:sequence    parentID:EAPK_F72AA401_6CD3_4b97_BC26_235A940642BE    i:0
+
+IGNORE:Ignore the ith attribute of the "uml:Interaction" node! Attribute type is "".
+INFO:parent collaboration Name:EA_Collaboration1    parent collaboration ID:EAID_CB000000_401_6CD3_4b97_BC26_235A940642B    i:0
+
+IGNORE:Ignore the  ith attribute of type "signature" of the message node! Ignore this message attribute.
+INFO:interaction name:EA_Interaction1    interaction ID:EAID_IN000000_401_6CD3_4b97_BC26_235A940642B    i:7
+
+IGNORE:Ignore the  ith attribute of type "signature" of the message node! Ignore this message attribute.
+INFO:interaction name:EA_Interaction1    interaction ID:EAID_IN000000_401_6CD3_4b97_BC26_235A940642B    i:7
+
+IGNORE:Ignore the  ith attribute of type "signature" of the message node! Ignore this message attribute.
+INFO:interaction name:EA_Interaction1    interaction ID:EAID_IN000000_401_6CD3_4b97_BC26_235A940642B    i:7
+
+IGNORE:Ignore the  ith attribute of type "signature" of the message node! Ignore this message attribute.
+INFO:interaction name:EA_Interaction1    interaction ID:EAID_IN000000_401_6CD3_4b97_BC26_235A940642B    i:7
+
+IGNORE:Ignore the  ith attribute of type "signature" of the message node! Ignore this message attribute.
+INFO:interaction name:EA_Interaction1    interaction ID:EAID_IN000000_401_6CD3_4b97_BC26_235A940642B    i:7
+
+IGNORE:Ignore the  ith attribute of type "signature" of the message node! Ignore this message attribute.
+INFO:interaction name:EA_Interaction1    interaction ID:EAID_IN000000_401_6CD3_4b97_BC26_235A940642B    i:7
+
+IGNORE:Ignore the  ith attribute of type "signature" of the message node! Ignore this message attribute.
+INFO:interaction name:EA_Interaction1    interaction ID:EAID_IN000000_401_6CD3_4b97_BC26_235A940642B    i:7
+
+IGNORE:Ignore the  ith attribute of type "signature" of the message node! Ignore this message attribute.
+INFO:interaction name:EA_Interaction1    interaction ID:EAID_IN000000_401_6CD3_4b97_BC26_235A940642B    i:7
+
+IGNORE:Ignore the  ith attribute of type "signature" of the message node! Ignore this message attribute.
+INFO:interaction name:EA_Interaction1    interaction ID:EAID_IN000000_401_6CD3_4b97_BC26_235A940642B    i:7
+
+IGNORE:Ignore the  ith attribute of type "signature" of the message node! Ignore this message attribute.
+INFO:interaction name:EA_Interaction1    interaction ID:EAID_IN000000_401_6CD3_4b97_BC26_235A940642B    i:7
+
+IGNORE:Ignore a node of node name "EPProfile:information" and its child nodes!
+INFO:parentName:    parentID:
+

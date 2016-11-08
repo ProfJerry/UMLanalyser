@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<relationshipSet xmlns="http://www.ws.zc/xml-namespace/informationModel/zcGenericModelRelationship" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ws.zc/xml-namespace/informationModel/zcGenericModelRelationship
+D:\Backup\UMLanalyser\Debug\zcGenericModelRelationship.xsd">
+	<containmentList>
+		<containmentInfo>
+			<containmentRelationshipName>Root-School</containmentRelationshipName>
+			<superiorClass>Root</superiorClass>
+			<superiorClassMultiplicity>1</superiorClassMultiplicity>
+			<subordinateClass>School</subordinateClass>
+			<subordinateClassMultiplicity>0..*</subordinateClassMultiplicity>
+			<namingAttribute>SchoolID</namingAttribute>
+		</containmentInfo>
+	</containmentList>
+	<associationList>
+	</associationList>
+</relationshipSet>
